@@ -5,3 +5,5 @@ Testin README - files
 Tis is the new edit 
 jfidkc
 # mitäsähän tähän keksisis??
+%#
+Tähän jotakin
