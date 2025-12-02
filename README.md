@@ -1,9 +1,7 @@
-# test-january
-testing repositories
+# Visualization of velocity and acceleration
+Various illustrations of velocity and acceleration vectors.
 
-Testin README - files 
-Tis is the new edit 
-jfidkc
-# mitäsähän tähän keksisis??
-%#
-Tähän jotakin
+# Linear motion
+
+[1. Linearly moving frame](https://tapioniemi.github.io/test-january/)
+
